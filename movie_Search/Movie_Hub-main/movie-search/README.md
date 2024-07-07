@@ -17,5 +17,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
   ## Screenshots
 
-![Screenshot (28)]()
-![Screenshot (29)]()
+![Screenshot (28)](https://github.com/Pujash19/Movie_Hub/blob/main/movie_Search/Movie_Hub-main/movie-search/Screenshot/Screenshot%202024-07-07%20044552.png)
+![Screenshot (29)](https://github.com/Pujash19/Movie_Hub/blob/main/movie_Search/Movie_Hub-main/movie-search/Screenshot/Screenshot%202024-07-07%20044617.png)
